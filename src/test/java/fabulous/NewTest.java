@@ -33,7 +33,7 @@ public class NewTest {
 
   @AfterMethod
   public void afterMethod() {
-	  system.out.println("after before method")
+	  system.out.println("after the  before the test annotations method")
   }
 
   @BeforeClass
