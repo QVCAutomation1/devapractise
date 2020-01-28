@@ -26,7 +26,9 @@ public class NewTest {
 	  System.out.println("clariied  web page");
   }
   @BeforeMethod
+ 
   public void beforeMethod() {
+	  System.out.println(" print before methods");
   }
 
   @AfterMethod
