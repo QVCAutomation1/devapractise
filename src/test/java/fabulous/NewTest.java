@@ -33,6 +33,7 @@ public class NewTest {
 
   @AfterMethod
   public void afterMethod() {
+	  system.out.println("after before method")
   }
 
   @BeforeClass
