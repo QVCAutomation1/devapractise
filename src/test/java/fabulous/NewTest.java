@@ -23,7 +23,7 @@ public class NewTest {
   }
   @Test
   public void anotherpageopen() {
-	  System.out.println("clarriied the web page");
+	  System.out.println("clariied the web page");
   }
   @BeforeMethod
   public void beforeMethod() {
