@@ -38,6 +38,7 @@ public class NewTest {
 
   @BeforeClass
   public void beforeClass() {
+	  System.out.println("it is the beforeclass methods");
   }
 
   @AfterClass
