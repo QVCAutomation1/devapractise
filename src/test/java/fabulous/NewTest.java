@@ -28,12 +28,12 @@ public class NewTest {
   @BeforeMethod
  
   public void beforeMethod() {
-	  System.out.println(" print before method");
+	  System.out.println(" print method");
   }
 
   @AfterMethod
   public void afterMethod() {
-	  System.out.println("after the  before test annotations method");
+	  System.out.println("after the  before test annotations");
   }
 
   @BeforeClass
